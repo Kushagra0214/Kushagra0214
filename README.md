@@ -3,7 +3,7 @@
 #### Welcome To My GitHub Account. 
 
 #### Something about me -
-- 🎓 A 3rd year undergraduate at __IIT Goa__.
+- 🎓 I'm a 3rd year undergraduate at __IIT Goa__.
 - ✨ Passionate about Web and App Development.
 - 🌱 Currently learning __React Native__.
 - 👯 Looking to collaborate on __Web and App Dev Hackathons__.
