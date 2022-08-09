@@ -14,7 +14,7 @@
 
 Email: kushagra.srivastava.20042@iitgoaa.ac.in
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/701d64a8943214b9767733e7ac0b201f1a08a8b3/svgs/brands/linkedin-in.svg" width="50" height="50">
+<!-- <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/701d64a8943214b9767733e7ac0b201f1a08a8b3/svgs/brands/linkedin-in.svg" width="50" height="50"> -->
 
 <!--
 **Kushagra0214/Kushagra0214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
