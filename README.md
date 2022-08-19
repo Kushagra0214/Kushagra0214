@@ -3,7 +3,7 @@
 <h2>I'm an Undergraduate Student at Indian Institute of Technology, Goa.</h2>
 
 <h2> About Me </h2> 
-<p align="left">
+
 🔭 I’m currently working on Alumni Cell Website of IIT Goa.<br>
 👯 I’m looking to collaborate on Web and App Development Hackathons.<br>
 🤝 I’m looking for help with open source contribution.<br>
@@ -11,8 +11,10 @@
 💬 Ask me about MERN dev and C++.<br>
 📫 How to reach me: Email: kushagrasrivastava0214@gmail.com<br>
 👨‍💻 All of my projects are available on my GitHub account.<br>
-📄 Know about my experiences [😄](https://drive.google.com/file/d/1j8KZgz6U9vgT_cT46_sWiQ-w_cO_W5dq/view?usp=sharing) <br>
-⚡ Fun fact - I love writing and singing.</p>
+📄 Know about my experiences [😄](https://drive.google.com/file/d/1j8KZgz6U9vgT_cT46_sWiQ-w_cO_W5dq/view?usp=sharing) 
+<br>
+⚡ Fun fact - I love writing and singing.
+
 
 ###
 
