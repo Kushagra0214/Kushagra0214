@@ -76,4 +76,4 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/Kushagra0214/Kushagra0214/blob/output/snake.svg" alt="Snake animation" />
+<!-- <img href="https://raw.githubusercontent.com/Kushagra0214/Kushagra0214/blob/output/snake.svg" alt="Snake animation" /> -->
