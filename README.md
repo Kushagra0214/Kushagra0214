@@ -11,7 +11,7 @@
 💬 Ask me about MERN dev and C++.<br>
 📫 How to reach me: Email: kushagrasrivastava0214@gmail.com<br>
 👨‍💻 All of my projects are available on my GitHub account.<br>
-📄 Know about my experiences [😄](https://drive.google.com/file/d/1j8KZgz6U9vgT_cT46_sWiQ-w_cO_W5dq/view?usp=sharing) 
+📄 Know about my experiences [😄](https://drive.google.com/file/d/15YHx4Uf2c8dVQn6WDVUWt_wGi6UYGdo8/view?usp=sharing) 
 <br>
 ⚡ Fun fact - I love writing and singing.
 
